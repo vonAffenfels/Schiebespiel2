@@ -27,7 +27,7 @@ export default class GameConfig {
 			defaultState: 		Enums.States.BOOT,
 			scoreGain:  		50,
 			scoreBegin: 		10000,
-			numImages: 			4, 
+			numImages: 			1,
 
 			songs:    			[
 				"LvWBz1pLXps",
