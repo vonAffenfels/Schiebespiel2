@@ -16,7 +16,7 @@ export default class GameConfig {
 				enableDebug: false,
 				backgroundColor: '#ffffff',
 				renderer: Phaser.CANVAS,
-				name: "Schiebespiel"
+				name: "Schiebespiel2"
 			},
 
 			fontSize: {
